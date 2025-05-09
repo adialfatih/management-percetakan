@@ -1,39 +1,31 @@
-Manajemen Pabrik Percetakan PT. Mitra Sabahat Offset
-Aplikasi ini dikembangkan untuk PT. Mitra Sabahat Offset, sebuah pabrik percetakan yang membutuhkan sistem manajemen yang terintegrasi. Aplikasi ini menyatukan berbagai proses operasional mulai dari pembelian bahan baku, produksi, pengelolaan keuangan, hingga analisis data pelanggan.
+🧠 Integrated Printing Management System – PT. Mitra Sabahat Offset
+Aplikasi ini dikembangkan khusus untuk PT. Mitra Sabahat Offset sebagai solusi manajemen terintegrasi untuk memantau dan mengelola seluruh proses operasional pabrik percetakan, dari hulu ke hilir. Sistem ini meliputi pembelian bahan baku, produksi percetakan, pengelolaan keuangan, dan manajemen pelanggan dengan akurasi data yang tinggi dan kemudahan akses melalui web dan mobile.
 
-Fitur Utama
-1. Pembelian Bahan Baku & Hutang Piutang
-Mengelola proses pembelian bahan baku dengan rincian harga, jumlah, dan status pembayaran.
+🔍 Cakupan Proses
+Pembelian Bahan Baku: Modul untuk mencatat dan memantau pembelian bahan baku yang dibutuhkan oleh pabrik, termasuk bahan baku utama dan material pendukung lainnya.
 
-Menyediakan laporan hutang piutang terkait pembelian bahan baku.
+Manajemen Hutang Piutang: Pengelolaan dan pencatatan hutang piutang terkait pembelian bahan baku, memudahkan pemantauan kewajiban pembayaran.
 
-2. Data Produksi Per Operator
-Memantau data produksi secara real-time per operator.
+Data Produksi: Pencatatan hasil produksi per operator dan aktivitas percetakan, memantau output dan kualitas secara real-time.
 
-Menyimpan informasi terkait hasil produksi untuk tiap operator.
+Keuangan & Cash Flow: Manajemen laporan keuangan dan arus kas yang mencakup pengeluaran dan pemasukan, memberikan gambaran jelas kondisi finansial perusahaan.
 
-3. Data Produksi Percetakan
-Mencatat dan mengelola data terkait aktivitas percetakan di pabrik.
+Manajemen Data Customer: Penyimpanan data pelanggan dan analisis frekuensi pemesanan untuk meningkatkan hubungan pelanggan dan merencanakan strategi pemasaran yang lebih efektif.
 
-Memantau proses dan hasil produksi untuk efisiensi lebih tinggi.
+📱 Teknologi & Arsitektur
+Web Admin Panel: Akses penuh untuk admin dan manajer untuk memantau dan mengelola seluruh proses operasional pabrik, termasuk laporan keuangan, data produksi, dan status hutang/piutang.
 
-4. Keuangan & Cash Flow
-Menyusun laporan keuangan yang mencakup arus kas perusahaan.
+Mobile Access untuk Operator: Operator dapat memasukkan data langsung dari lapangan menggunakan perangkat mobile yang disediakan, memungkinkan pencatatan real-time dan mengurangi kemungkinan kesalahan.
 
-Memantau pengeluaran dan pemasukan dalam bentuk grafik dan laporan finansial yang mudah dipahami.
+Real-Time Data Sync: Semua data yang dimasukkan oleh operator langsung terupdate dan terintegrasi ke dalam sistem pusat tanpa delay, memungkinkan pengambilan keputusan yang cepat dan akurat.
 
-5. Manajemen Data Customer
-Menyimpan data pelanggan dengan informasi frekuensi pemesanan.
+🎯 Tujuan & Manfaat
+Meningkatkan Efisiensi Operasional: Menyederhanakan dan mengotomatiskan proses-proses administratif seperti pembelian bahan baku, pencatatan produksi, dan laporan keuangan.
 
-Memberikan analisis terhadap pola pemesanan pelanggan, membantu dalam strategi pemasaran dan pengelolaan hubungan pelanggan.
+Transparansi & Akurasi Data: Memberikan gambaran yang lebih jelas mengenai status produksi dan kondisi keuangan perusahaan secara real-time.
 
-Teknologi yang Digunakan
-Frontend: HTML, CSS, JavaScript
+Pengelolaan Pelanggan yang Lebih Baik: Menganalisis pola pemesanan pelanggan untuk merencanakan strategi bisnis dan meningkatkan loyalitas pelanggan.
 
-Backend: PHP
+Peningkatan Pengambilan Keputusan: Dengan akses data yang lebih cepat dan akurat, manajemen dapat membuat keputusan yang lebih baik dan lebih cepat terkait operasi pabrik.
 
-Database: MySQL
-
-Framework: Bootstrap
-
-Version Control: Git & GitHub
+Aplikasi ini dirancang untuk memenuhi kebutuhan pabrik percetakan modern yang membutuhkan solusi manajemen yang terintegrasi, efisien, dan dapat diakses kapan saja dari mana saja. Membantu meningkatkan kinerja dan transparansi dalam setiap aspek operasional pabrik.
