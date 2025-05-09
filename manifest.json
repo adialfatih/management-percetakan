@@ -1,0 +1,21 @@
+{
+  "name": "Mitra Sahabat",
+  "short_name": "Mitra Sahabat",
+  "description": "Aplikasi perhitungan pembelian dan pemakaian bahan baku, bahan bantu dan sparepart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9dcafa",
+  "icons": [
+    {
+      "src": "/logo/2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo/2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
